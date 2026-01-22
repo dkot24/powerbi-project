@@ -1,8 +1,11 @@
 Retail Store Dashboard - Power BI
-📊 Opis projektu
+📊 Opis projektu:
+
 Interaktywny dashboard sprzedażowy stworzony w Power BI, wizualizujący dane z bazy PostgreSQL. Projekt przedstawia kompleksową analizę sprzedaży sklepu odzieżowego z perspektywą produktową, geograficzną i czasową.
+
 🎯 Cel projektu
 Stworzenie end-to-end rozwiązania Business Intelligence - od projektowania bazy danych w PostgreSQL, przez modelowanie danych, po interaktywną wizualizację w Power BI umożliwiającą self-service analytics.
+
 🛠️ Technologie
 
 Database: PostgreSQL
@@ -11,15 +14,23 @@ Data Modeling: DAX (Data Analysis Expressions)
 Connection: DirectQuery/Import mode
 
 📈 Funkcjonalności dashboardu
+
 Kluczowe wizualizacje:
 
 Quantity sold by category - wykres pierścieniowy pokazujący strukturę sprzedaży według 5 kategorii
+
 Sales by product - ranking 15 produktów z wizualizacją wolumenu sprzedaży
+
 Total sales by category - szczegółowe porównanie 9 kategorii produktowych
+
 Sales per month - analiza trendu sprzedażowego (styczeń 2025 - styczeń 2026)
+
 Geographic filters - 12 interaktywnych przycisków dla różnych rynków (Brazil, France, Germany, Italy, Japan, Poland, Russia, Spain, Sweden, UK, USA, Egypt)
+
 Domestic sales - dedykowany widok dla rynku krajowego
+
 Total Sales KPI - centralny wskaźnik: 6,98 tys. sztuk
+
 
 Interaktywność:
 
