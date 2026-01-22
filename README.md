@@ -54,5 +54,6 @@ Geografia - porównanie wydajności różnych rynków
 Czas - identyfikacja sezonowości i trendów
 Cross-analysis - np. "jakie produkty sprzedają się najlepiej w Polsce w sezonie letnim?"
 
-<img width="1271" height="717" alt="image" src="https://github.com/user-attachments/assets/c9c5f997-97b5-46d2-930d-a5ba4b348d1c" />
+<img width="1274" height="716" alt="image" src="https://github.com/user-attachments/assets/ee0e41c1-9655-4459-9895-d6091aea8016" />
+
 
